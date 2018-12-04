@@ -1,8 +1,9 @@
 # ====================mysql====================
-connection:
-  url: jdbc:mysql://192.168.0.58:3306/tms2_dev?useUnicode=true&characterEncoding=utf8
-  username: root
-  password: '{cipher}AQA02ZaJJTMQi3JFkfDnNMtkgg2di1b1HLf2NlnZ87qpOk55Ay0EdR0Tj2RbMn2GZYMCgotTI+1A30zf+lp+zINiD4vqOJEphlSV/9Y4AIc5DPWXRXGuXNF9BJE6BAIkvMYjwK6TL7evh6/DagLZxfyDAbgC2xQ192gUUPStOWAAgCBkCqv7JqwEJz4qvR947r+/AI0qsnNGAJqYNOo49zOmec20wKxcqwL9bvtPPVd28soouSX6h9nr0QMWhIStukfXaclVB/9eZQOhtOI7+E5Hl3J3FDGtfz9hQP6RPyvRM0LI1Or5hpBvI2AhtNamgvdlLNS83R0/wx9jwQMwjV/MjmFKiZVfYuulMnaepscNZoSPeOiox4loRYWRDFkogWE='
+basis:
+  connection: 
+    url: jdbc:mysql://192.168.0.58:3306/tms2_dev?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: '{cipher}AQA02ZaJJTMQi3JFkfDnNMtkgg2di1b1HLf2NlnZ87qpOk55Ay0EdR0Tj2RbMn2GZYMCgotTI+1A30zf+lp+zINiD4vqOJEphlSV/9Y4AIc5DPWXRXGuXNF9BJE6BAIkvMYjwK6TL7evh6/DagLZxfyDAbgC2xQ192gUUPStOWAAgCBkCqv7JqwEJz4qvR947r+/AI0qsnNGAJqYNOo49zOmec20wKxcqwL9bvtPPVd28soouSX6h9nr0QMWhIStukfXaclVB/9eZQOhtOI7+E5Hl3J3FDGtfz9hQP6RPyvRM0LI1Or5hpBvI2AhtNamgvdlLNS83R0/wx9jwQMwjV/MjmFKiZVfYuulMnaepscNZoSPeOiox4loRYWRDFkogWE='
 
 
 # ====================druid====================
